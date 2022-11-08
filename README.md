@@ -1,9 +1,10 @@
 ### Olá 👋
-Meu nome é Fanaina, mas podem me chamar de Fanny!😆
+### Meu nome é Fanaina, mas podem me chamar de Fanny!😆
 
+Atualmente sou/estou ...
 - 💻 Bacharelanda em Sistemas de Informações - UFRPE/UAST
 - 😄 Pronomes: Ela/Dela
-- 🔭 Atualmente sou professora de Robótica no Colégio da Imaculada Conceição
+- 🔭 Professora de Robótica no Colégio da Imaculada Conceição
 - 📚 Aprendendo Java, Python, e o que mais aparecer na area de tecnologia rsrs
 - 😻🐈 Mãe de 2 gatas (Dora e Nina)💕
 - 💼 Em busca do meu primeiro emprego como Desenvolvedora Back-End 😄
