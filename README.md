@@ -1,4 +1,14 @@
-### Hi there 👋
+### Olá 👋
+Meu nome é Fanaina, mas podem me chamar de Fanny!😆
+
+- 💻 Bacharelanda em Sistemas de Informações - UFRPE/UAST
+- 😄 Pronomes: Ela/Dela
+- 🔭 Atualmente sou professora de Robótica no Colégio da Imaculada Conceição
+- 📚 Aprendendo Java, Python, e o que mais aparecer na area de tecnologia rsrs
+- 😻🐈 Mãe de 2 gatas (Dora e Nina)💕
+- 💼 Em busca do meu primeiro emprego como Desenvolvedora Back-End 😄
+
+
 
 <!--
 **fanainaalves/fanainaalves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
