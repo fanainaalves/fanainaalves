@@ -31,7 +31,7 @@ Atualmente sou/estou ...
 </div>
 </p>
 
-<h3 align="left">Contato:</h3>
+<h3 align="left">Contatos:</h3>
 <p align="left">
 <div>
 <a href="https://www.linkedin.com/in/fanaina-alves-pcd-937b64198/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
