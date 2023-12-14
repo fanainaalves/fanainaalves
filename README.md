@@ -4,7 +4,7 @@
 Atualmente sou/estou ...
 - 💻 Bacharelanda em Sistemas de Informações - UFRPE/UAST
 - 😄 Pronomes: Ela/Dela
-- 🔭 Auxiliar de Tecnologia da Informação na G&P Projetos e Sistemas SA.
+- 🔭 Analista de Sistemas Jr na Empresa Connectis que faz parte do grupo Getronics.
 - 📚 Aprendendo Java, Python e desenvolvimento Front-end com JavaScript, HTML, CSS, Node.js e React, porém o foco mesmo é o desenvolvimento Back-end.
 - 😻🐈 Mãe de 2 gatas (Dora e Nina)💕
 
