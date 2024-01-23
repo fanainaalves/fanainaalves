@@ -42,6 +42,6 @@ Atualmente sou/estou ...
           
 <div align="left">
   <a href="https://github.com/fanainaalves">
- [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoBorchoski&layout=donut&langs_count=6)](https://github.com/JoaoBorchoski/github-readme-stats)
-![Meu status do GitHub](https://github-readme-stats.vercel.app/api?username=JoaoBorchoski&show_icons=true&theme=radical)
+ [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=FanainaAlves&layout=donut&langs_count=6)](https://github.com/FanainaAlves/github-readme-stats)
+![Meu status do GitHub](https://github-readme-stats.vercel.app/api?username=FanainaAlves&show_icons=true&theme=radical)
 </div>
