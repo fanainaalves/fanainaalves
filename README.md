@@ -42,6 +42,5 @@ Atualmente sou/estou ...
           
 <div align="left">
   <a href="https://github.com/fanainaalves">
- [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=FanainaAlves&layout=donut&langs_count=6)](https://github.com/FanainaAlves/github-readme-stats)
-![Meu status do GitHub](https://github-readme-stats.vercel.app/api?username=FanainaAlves&show_icons=true&theme=radical)
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fanainaalves&show_icons=true&theme=blank&include_all_commits=true&count_private=true"/>
 </div>
