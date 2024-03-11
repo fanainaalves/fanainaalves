@@ -5,8 +5,7 @@ Atualmente sou/estou ...
 - 💻 Bacharelanda em Sistemas de Informações - UFRPE/UAST
 - 😄 Pronomes: Ela/Dela
 - 🔭 Analista de Sistemas Jr na Empresa Connectis que faz parte do grupo Getronics.
-- 📚 Aprendendo Java, Python e desenvolvimento Front-end com JavaScript, HTML, CSS, Node.js e React, porém o foco mesmo é o desenvolvimento Back-end.
-- 😻🐈 Mãe de 2 gatas (Dora e Nina)💕
+- 📚 Aprendendo o desenvolvimento Full Stack (Java).
 
 <h3 align="left">Linguagens de Programação/Marcação:</h3>
 <p align="left">
