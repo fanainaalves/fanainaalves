@@ -4,7 +4,7 @@
 Atualmente sou/estou ...
 - 💻 Bacharelanda em Sistemas de Informações - UFRPE/UAST
 - 😄 Pronomes: Ela/Dela
-- 🔭 Analista de Sistemas Jr na Empresa Connectis que faz parte do grupo Getronics.
+- 🔭 Analista de Sistemas Jr na Empresa Getronics.
 - 📚 Aprendendo o desenvolvimento Full Stack (Java).
 
 <h3 align="left">Linguagens de Programação/Marcação:</h3>
